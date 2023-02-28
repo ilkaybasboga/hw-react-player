@@ -16,7 +16,7 @@ const [transferList, setTransferList] = useState(transferData)
     <main className="text-center mt-2">
       <h1 className="display-5 text-light text-decoration-underline mt-3">MY BEST ACTİVE 11 LİNE-UP</h1>
       <h5 className="text-light text-decoration-underline mt-3">All for free... You are free to transfer your dream player to your team.</h5>
-    <Player player={player} transferList={transferList} setTransferList={setTransferList}/>
+    <Player player={player} transferList={transferList} setTransferList={setTransferList} setPlayer={setPlayer}/>
     <TransferList transferList={transferList} setTransferList={setTransferList}/>
     </main>
   )
