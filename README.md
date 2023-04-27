@@ -25,7 +25,7 @@ yarn.lock
 ```
 ## Expected Outcome
 
-![Project gif](../hw-react-player/public/img/player_gif.gif)
+![Project gif](./public/img/player_gif.gif)
 
 
 ### At the end of the project, following topics are to be covered;
